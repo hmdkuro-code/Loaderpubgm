@@ -1,0 +1,16 @@
+{
+    "gamesList": [
+        {
+            "title": "النسخه العالميه",
+            "package": "com.tencent.ig",
+            "version": "4.1.0",
+            "status": "امن"
+        },
+        {
+            "title": "النسخه الكوريه",
+            "package": "com.pubg.krmobile",
+            "version": "4.1.0",
+            "status": "امن"
+        }
+    ]
+}
